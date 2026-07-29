@@ -1,0 +1,10 @@
+import DualSpacesOperatorAlgebrasCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DualSpacesOperatorAlgebrasCanonicalLaneLean
+
+structure DualOperatorEndgameState where
+  object : DualOperatorAdmittedObject
+
+end DualSpacesOperatorAlgebrasCanonicalLaneLean
+end HautevilleHouse
